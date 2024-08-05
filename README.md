@@ -1,4 +1,7 @@
 # E-Commerce-Website
+
+This project is co-owned by: [@chahelgupta](https://www.github.com/chahelgupta) [@amishidesai](https://www.github.com/AmishiDesai04) [@reneeka](https://www.github.com/reneeka)
+
 Welcome to Couch Potato, your one-stop destination for all your furniture needs! This e-commerce website is designed to provide you with a seamless shopping experience for furniture items. With a user-friendly interface and a wide range of products, Couch Potato aims to make furnishing your home a breeze.
 
 ## Features
